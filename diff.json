@@ -3,7 +3,7 @@ _matchInfoCallBack({
 
    ],
    "match":{
-      "matchStatusCode":"8",
+      "matchStatusCode":"16",
       "isLive":true,
       "isStarted":true,
       "isFinished":false,
@@ -54,9 +54,9 @@ _matchInfoCallBack({
       "cityGeoId":0,
       "cityCountryCode":null,
       "city":null,
-      "minute":46,
-      "phaseCode":"1",
-      "phase":"Fist Half",
+      "minute":0,
+      "phaseCode":"H",
+      "phase":"Half Time",
       "result":"1-1",
       "resultRtl":"1-1",
       "scoreHome":1,
@@ -1497,6 +1497,31 @@ _matchInfoCallBack({
          }
       },
       "events":[
+         {
+            "id":24422003,
+            "eventCode":14,
+            "subKindCode":"",
+            "eventDescription":"End of period",
+            "eventDescriptionShort":"End",
+            "phase":1,
+            "phaseDescription":"First half",
+            "phaseDescriptionShort":"1H",
+            "homeGoals":1,
+            "awayGoals":1,
+            "idTeam":0,
+            "teamName":"",
+            "teamNameShort":"",
+            "idPlayer":0,
+            "playerName":"",
+            "playerNameShort":"",
+            "teamCountry":null,
+            "teamCountryCode":null,
+            "idPlayerTo":0,
+            "playerToName":"",
+            "playerToNameShort":"",
+            "minute":"45'+2'",
+            "tag":"fifa.mbm_endfirsthalf"
+         },
          {
             "id":24421600,
             "eventCode":3,
