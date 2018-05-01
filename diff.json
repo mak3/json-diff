@@ -54,7 +54,7 @@ _matchInfoCallBack({
       "cityGeoId":0,
       "cityCountryCode":null,
       "city":null,
-      "minute":25,
+      "minute":31,
       "phaseCode":"1",
       "phase":"Fist Half",
       "result":"1-1",
